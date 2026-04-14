@@ -1,4 +1,4 @@
-#include<raylib.h>
+#include"./raylib/src/raylib.h"
 
 int highScore=0, scorep1=0, scorep2=0;
 
